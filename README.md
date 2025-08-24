@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansarullah Tohor</h1>
 <h3 align="center">A passionate Self Learner</h3>
-<img align="right" alt="Artificial Engineering" width="400" src=https://lottiefiles.com/free-animation/technology-isometric-ai-robot-brain-2vX5SyCjFX>
+<img align="right" alt="Artificial Engineering" width="400" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarullah-tohor&label=Profile%20views&color=0e75b6&style=flat" alt="ansarullah-tohor" /> </p>
 
@@ -18,18 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansarullah-tohor&show_icons=true&locale=en" alt="ansarullah-tohor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansarullah-tohor&" alt="ansarullah-tohor" /></p>
-
-<!--
-**Ansarullah-Tohor/Ansarullah-Tohor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
